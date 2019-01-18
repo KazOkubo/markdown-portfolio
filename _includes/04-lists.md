@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+- behavior genetics
+- social science genomics
